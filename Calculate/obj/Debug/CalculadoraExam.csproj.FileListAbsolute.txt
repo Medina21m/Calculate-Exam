@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\alumno\Desktop\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\alumno\Desktop\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\CalculadoraExam.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\CalculadoraExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\CalculadoraExam.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\CalculadoraExam.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\alumno\Desktop\Calculate\Calculate\obj\Debug\Calculate.Calculate.resources
